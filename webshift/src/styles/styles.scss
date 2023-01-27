@@ -1,7 +1,9 @@
 /*Base*/
 
 @import "./base/global";
+@import "./general.scss";
 
 /*Components*/
-
 @import "./components/register";
+@import "./components/login";
+@import "./components/profileUser";
