@@ -1,0 +1,56 @@
+.clientefinal-reservadelcliente-c-t-a-desktop44 {
+  /* CTA-Desktop-4 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 12px 12px 16px;
+  gap: 8px;
+
+  width: 100px;
+  height: 48px;
+
+  /* Grey 1 */
+
+  background: #f5f5f5;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 5;
+  flex-grow: 0;
+}
+.clientefinal-reservadelcliente-text088 {
+  /* Txt */
+
+  width: 79px;
+  height: 20px;
+
+  /* Semibold · 15 · 20 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-feature-settings: "zero" on;
+
+  /* Principal */
+  background: #f5f5f5;
+  color: #a442f1;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
