@@ -1,0 +1,1181 @@
+.clientefinal-registro-clientefinal-registro {
+  position: relative;
+  width: 100%;
+  height: 826px;
+
+  /* White */
+
+  background: $white;
+}
+.clientefinal-registro-login-mail {
+  /* Login Mail */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+  gap: 20px;
+
+  position: absolute;
+  width: 580px;
+  height: 622px;
+  left: calc(50% - 580px / 2);
+  top: 84px;
+
+  /* White */
+
+  background: $white;
+  /* Shadow Card Hover */
+
+  box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+}
+.clientefinal-registro-head {
+  /* Head */
+
+  /* Auto layout */
+  @include autoLayoutCol(0);
+
+  width: 516px;
+  height: 52px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-c-t-a-desktop3 {
+  /* CTA-Desktop-3 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  width: 516px;
+  height: 20px;
+
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-user-interface {
+  width: 20px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.clientefinal-registro-text {
+  /* Txt */
+
+  width: 492px;
+  height: 16px;
+
+  /* Semibold · 14 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "zero" on;
+
+  /* Principal */
+
+  color: $primaryColor;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.clientefinal-registro-text02 {
+  /* Título */
+
+  width: 516px;
+  height: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+  text-align: center;
+  font-feature-settings: "zero" on;
+
+  /* Black */
+
+  color: $black;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-inputs {
+  /* Inputs */
+
+  /* Auto layout */
+  @include autoLayoutCenterCol(12px);
+
+  width: 516px;
+  height: 338px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-fila {
+  /* Fila */
+
+  /* Auto layout */
+  @include autoLayoutCenterRow(16px);
+
+  width: 516px;
+  height: 66px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-input-desktop2 {
+  /* Input Desktop 2 */
+
+  /* Auto layout */
+
+  @include autoLayoutCol(2px);
+
+  width: 250px;
+  height: 66px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.clientefinal-registro-txt {
+  /* Txt */
+
+  /* Auto layout */
+  @include autoLayoutCenterRow(4px);
+
+  width: 250px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-text04 {
+  width: 250px;
+  height: 20px;
+
+  /* Regular · 14 · 20 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  /* Black */
+
+  color: $black;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.clientefinal-registro-input-desktop21 {
+  /* Input Desktop 2 */
+
+  /* Auto layout */
+
+  @include autoLayoutCol(2px);
+
+  width: 250px;
+  height: 66px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.clientefinal-registro-txt1 {
+  /* Txt */
+
+  /* Auto layout */
+
+  @include autoLayoutCenterRow(4px);
+
+  width: 250px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-text06 {
+  /* Título */
+
+  width: 250px;
+  height: 20px;
+
+  /* Regular · 14 · 20 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  /* Black */
+
+  color: $black;
+}
+.clientefinal-registro-input-desktop11 {
+  /* Input Desktop 1 */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 8px 12px 12px;
+  gap: 8px;
+
+  width: 250px;
+  height: 44px;
+
+  /* White */
+
+  background: $white;
+  /* Grey 3 */
+
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-input-desktop22 {
+  /* Input Desktop 2 */
+
+  /* Auto layout */
+
+  @include autoLayoutCol(2px);
+
+  width: 516px;
+  height: 66px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-txt2 {
+  /* Txt */
+
+  /* Auto layout */
+
+  @include autoLayoutCenterRow(4px);
+  width: 516px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-text08 {
+  /* Título */
+
+  width: 516px;
+  height: 20px;
+
+  /* Regular · 14 · 20 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  /* Black */
+
+  color: $black;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.clientefinal-registro-input-desktop12 {
+  /* Input Desktop 1 */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 8px 12px 12px;
+  gap: 8px;
+
+  width: 516px;
+  height: 44px;
+
+  /* White */
+
+  background: $white;
+  /* Grey 3 */
+
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-fila1 {
+  /* Fila */
+
+  /* Auto layout */
+
+  @include autoLayoutCenterRow(16px);
+
+  width: 516px;
+  height: 66px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-input-desktop23 {
+  /* Input Desktop 2 */
+
+  /* Auto layout */
+
+  @include autoLayoutCol(2px);
+
+  width: 250px;
+  height: 66px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.clientefinal-registro-txt3 {
+  /* Txt */
+
+  /* Auto layout */
+
+  @include autoLayoutCenterRow(4px);
+  width: 250px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-text10 {
+  /* Título */
+
+  width: 250px;
+  height: 20px;
+
+  /* Regular · 14 · 20 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  /* Black */
+
+  color: $black;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.clientefinal-registro-input-desktop13 {
+  /* Input Desktop 1 */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 8px 12px 12px;
+  gap: 8px;
+
+  width: 250px;
+  height: 44px;
+
+  /* White */
+
+  background: $white;
+  /* Grey 3 */
+
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.clientefinal-registro-input-desktop24 {
+  /* Input Desktop 2 */
+
+  /* Auto layout */
+
+  @include autoLayoutCol(2px);
+
+  width: 250px;
+  height: 66px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.clientefinal-registro-txt4 {
+  /* Txt */
+
+  /* Auto layout */
+
+  @include autoLayoutCenterRow(4px);
+
+  width: 250px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-text13 {
+  /* Título */
+
+  width: 250px;
+  height: 20px;
+
+  /* Regular · 14 · 20 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  /* Black */
+
+  color: $black;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.clientefinal-registro-input-desktop14 {
+  /* Input Desktop 1 */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 8px 12px 12px;
+  gap: 8px;
+
+  width: 250px;
+  height: 44px;
+
+  /* White */
+
+  background: $white;
+  /* Grey 3 */
+
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.clientefinal-registro-advertencia {
+  /* Advertencia */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px 20px;
+  gap: 12px;
+
+  width: 516px;
+  height: 104px;
+
+  /* Grey 1 */
+
+  background: $grey1;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 3;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-head1 {
+  /* Head */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  width: 476px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-text16 {
+  /* La contraseña debe contener: */
+
+  width: 476px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-border {
+  /* Border */
+
+  width: 476px;
+  height: 0px;
+
+  /* Grey 3 */
+
+  border: 1px solid #e1e1e1;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.clientefinal-registro-content {
+  /* Content */
+
+  /* Auto layout */
+
+  @include autoLayoutCol(8px);
+
+  width: 476px;
+  height: 40px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-fila2 {
+  /* Fila */
+
+  /* Auto layout */
+  @include autoLayoutRow(16px);
+
+  width: 476px;
+  height: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-fila3 {
+  /* Fila */
+
+  /* Auto layout */
+  @include autoLayoutRow(4px);
+
+  width: 230px;
+  height: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.clientefinal-registro-text18 {
+  /* ABC */
+
+  width: 24px;
+  height: 16px;
+
+  /* Body/Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.clientefinal-registro-text20 {
+  /* Una letra mayúscula */
+
+  width: 202px;
+  height: 16px;
+
+  /* Body/Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 1;
+}
+.clientefinal-registro-fila4 {
+  /* Fila */
+
+  /* Auto layout */
+  @include autoLayoutRow(4px);
+
+  width: 230px;
+  height: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.clientefinal-registro-text22 {
+  /* abc */
+
+  width: 20px;
+  height: 16px;
+
+  /* Body/Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.clientefinal-registro-text24 {
+  /* Una letra minúscula */
+
+  width: 206px;
+  height: 16px;
+
+  /* Body/Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 1;
+}
+.clientefinal-registro-fila5 {
+  /* Fila */
+
+  /* Auto layout */
+  @include autoLayoutRow(16px);
+
+  width: 476px;
+  height: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-fila6 {
+  /* Fila */
+
+  /* Auto layout */
+  @include autoLayoutRow(4px);
+
+  width: 230px;
+  height: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.clientefinal-registro-text26 {
+  /* 123 */
+
+  width: 21px;
+  height: 16px;
+
+  /* Body/Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.clientefinal-registro-text28 {
+  /* Un número */
+
+  width: 205px;
+  height: 16px;
+
+  /* Body/Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 1;
+}
+.clientefinal-registro-fila7 {
+  /* Fila */
+
+  /* Auto layout */
+
+  @include autoLayoutRow(8px);
+
+  width: 230px;
+  height: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.clientefinal-registro-text30 {
+  /* *** */
+
+  width: 16px;
+  height: 16px;
+
+  /* Body/Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.clientefinal-registro-text32 {
+  /* Mínimo 8 caracteres */
+
+  width: 206px;
+  height: 16px;
+
+  /* Body/Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 1;
+}
+.clientefinal-registro-c-t-a-desktop1 {
+  /* CTA-Desktop-1 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  gap: 4px;
+
+  width: 510px;
+  height: 44px;
+  margin-top: 20px;
+
+  /* Principal */
+
+  background: $primaryColor;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-text36 {
+  /* Text */
+
+  width: 468px;
+  height: 20px;
+
+  /* Semibold · 16 · 20 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+
+  align-items: center;
+  text-align: center;
+  font-feature-settings: "zero" on;
+
+  /* White */
+
+  color: $white;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.clientefinal-registro-border1 {
+  /* Border */
+
+  width: 516px;
+  height: 0px;
+
+  /* Grey 3 */
+
+  border: 1px solid #e1e1e1;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 3;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-registro-c-t-a-desktop2 {
+  /* CTA-Desktop-2 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  gap: 4px;
+
+  width: 516px;
+  height: 44px;
+
+  background: rgba(164, 66, 241, 0.1);
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 4;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.clientefinal-registro-text38 {
+  /* Txt */
+
+  width: 468px;
+  height: 20px;
+
+  /* Semibold · 16 · 20 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+
+  align-items: center;
+  text-align: center;
+  font-feature-settings: "zero" on;
+
+  /* Principal */
+
+  color: $primaryColor;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.clientefinal-registro-user-interface3 {
+  top: 12px;
+  left: 1256px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}

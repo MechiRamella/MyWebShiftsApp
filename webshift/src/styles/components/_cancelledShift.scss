@@ -1,0 +1,1021 @@
+.cancelado-cancelado {
+  /* Cancelado */
+
+  position: relative;
+  width: 100%;
+  height: 904px;
+
+  /* White */
+
+  background: #ffffff;
+}
+.cancelado-c-t-a-desktop3 {
+  /* CTA-Desktop-3 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  position: absolute;
+  width: 779px;
+  height: 20px;
+  left: 260px;
+  top: 132px;
+
+  border-radius: 8px;
+}
+.cancelado-user-interface {
+  /* User Interface */
+
+  width: 20px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.cancelado-text {
+  /* Txt */
+
+  width: 755px;
+  height: 16px;
+
+  /* Semibold · 14 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  display: flex;
+  align-items: center;
+  font-feature-settings: "zero" on;
+
+  /* Principal */
+
+  color: #a442f1;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.cancelado-cancelar {
+  /* Cancelar */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 24px;
+
+  position: absolute;
+  width: 779px;
+  height: 560px;
+  left: 260px;
+  top: 224px;
+}
+.cancelado-txt {
+  /* Txt */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+
+  width: 779px;
+  height: 48px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-text02 {
+  /* Txt */
+
+  width: 779px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-text04 {
+  /* Txt */
+
+  width: 779px;
+  height: 20px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+
+  font-feature-settings: "zero" on;
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-border {
+  /* Border */
+
+  width: 779px;
+  height: 0px;
+
+  /* Grey 4 */
+
+  border: 1px solid #c8c8c8;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-checkbox-desktop {
+  /* Checkbox-Desktop */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  width: 779px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-user-interface1 {
+  /* User Interface */
+
+  width: 20px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.cancelado-text06 {
+  /* txt */
+
+  width: 755px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  display: flex;
+  align-items: center;
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.cancelado-border1 {
+  /* Border */
+
+  width: 779px;
+  height: 0px;
+
+  /* Grey 4 */
+
+  border: 1px solid #c8c8c8;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 3;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-checkbox-desktop1 {
+  /* Checkbox-Desktop */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  width: 779px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 4;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-user-interface2 {
+  /* User Interface */
+
+  width: 20px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.cancelado-text08 {
+  /* txt */
+
+  width: 755px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  display: flex;
+  align-items: center;
+
+  /* Black */
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.cancelado-card {
+  /* Card */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px;
+  gap: 12px;
+
+  width: 779px;
+  height: 148px;
+
+  /* Grey 1 */
+
+  background: #f5f5f5;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 5;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-text10 {
+  /* Txt */
+
+  width: 731px;
+  height: 16px;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-text12 {
+  /* Txt */
+
+  width: 731px;
+  height: 16px;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-c-t-a-desktop4 {
+  /* CTA-Desktop-4 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+
+  width: 200px;
+  height: 44px;
+
+  /* Error */
+
+  background: #e53939;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+.cancelado-text14 {
+  /* Txt */
+
+  width: 155px;
+  height: 20px;
+
+  /* Semibold · 15 · 20 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height, or 133% */
+
+  align-items: center;
+  text-align: center;
+  font-feature-settings: "zero" on;
+
+  /* White */
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.cancelado-border2 {
+  /* Border */
+
+  width: 779px;
+  height: 0px;
+
+  /* Grey 4 */
+
+  border: 1px solid #c8c8c8;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 6;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-checkbox-desktop2 {
+  /* Checkbox-Desktop */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  width: 779px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 7;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-user-interface3 {
+  /* User Interface */
+
+  width: 20px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.cancelado-text16 {
+  /* txt */
+
+  width: 755px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  display: flex;
+  align-items: center;
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.cancelado-border3 {
+  /* Border */
+
+  width: 779px;
+  height: 0px;
+
+  /* Grey 4 */
+
+  border: 1px solid #c8c8c8;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 8;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-checkbox-desktop3 {
+  /* Checkbox-Desktop */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  width: 779px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 9;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-user-interface4 {
+  /* User Interface */
+
+  width: 20px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.cancelado-text18 {
+  /* txt */
+
+  width: 755px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  display: flex;
+  align-items: center;
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.cancelado-border4 {
+  /* Border */
+
+  width: 779px;
+  height: 0px;
+
+  /* Grey 4 */
+
+  border: 1px solid #c8c8c8;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 10;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-checkbox-desktop4 {
+  /* Checkbox-Desktop */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  width: 779px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 11;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-user-interface5 {
+  /* User Interface */
+
+  width: 20px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.cancelado-text20 {
+  /* txt */
+
+  width: 755px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  display: flex;
+  align-items: center;
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.cancelado-text22 {
+  /* Cancelar reserva */
+
+  position: absolute;
+  width: 779px;
+  height: 32px;
+  left: 260px;
+  top: 160px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+  font-feature-settings: "zero" on;
+
+  /* Black */
+
+  color: #000000;
+}
+.cancelado-informacinreserva {
+  /* Información reserva */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 16px;
+
+  position: absolute;
+  height: 146px;
+  left: 1300px;
+  right: 96px;
+  top: 160px;
+}
+.cancelado-datos-usuario {
+  /* Datos-Usuario */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 8px;
+
+  width: 282px;
+  height: 48px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-text24 {
+  /* Txt */
+
+  width: 282px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  /* identical to box height, or 123% */
+
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 6 */
+
+  color: #8c8c8c;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-text26 {
+  /* Txt */
+
+  width: 282px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  /* identical to box height, or 126% */
+
+  font-feature-settings: "zero" on;
+
+  /* Black */
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-content {
+  /* Content */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 8px;
+
+  width: 282px;
+  height: 66px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-txt1 {
+  /* Txt */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  width: 282px;
+  height: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.cancelado-text28 {
+  /* Txt */
+
+  width: 21px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.cancelado-text30 {
+  /* Txt */
+
+  width: 257px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  /* Grey 6 */
+
+  color: #8c8c8c;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.cancelado-txt2 {
+  /* Txt */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  width: 282px;
+  height: 17px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.cancelado-text32 {
+  /* Txt */
+
+  width: 51px;
+  height: 17px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height */
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.cancelado-text34 {
+  /* Txt */
+
+  width: 227px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  /* Grey 6 */
+
+  color: #8c8c8c;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.cancelado-txt3 {
+  /* Txt */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  width: 282px;
+  height: 17px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+.cancelado-text36 {
+  /* Txt */
+
+  width: 59px;
+  height: 17px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height */
+
+  /* Grey 7 */
+
+  color: #6e6e6e;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.cancelado-text38 {
+  /* Txt */
+
+  width: 219px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  /* Grey 6 */
+
+  color: #8c8c8c;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.cancelado-border5 {
+  /* Border */
+
+  width: 282px;
+  height: 0px;
+
+  /* Grey 3 */
+
+  border: 1px solid #e1e1e1;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}

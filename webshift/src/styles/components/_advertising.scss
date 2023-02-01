@@ -1,0 +1,48 @@
+.top-banner-top-banner {
+  /* Top Banner */
+
+  position: absolute;
+  width: 100%;
+  height: 36px;
+  left: 0px;
+  top: 0px;
+
+  /* Grey 2 */
+
+  background: #f0f0f0;
+}
+.top-banner-text {
+  /* Txt */
+
+  position: absolute;
+  height: 16px;
+  left: 96px;
+  right: 96px;
+  top: calc(50% - 16px / 2 + 2px);
+
+  /* Body/SemiBold · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  align-items: center;
+  text-align: center;
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Principal */
+
+  color: #a442f1;
+}
+.top-banner-user-interface {
+  /* User Interface */
+
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  right: 96px;
+  top: 12px;
+}

@@ -1,0 +1,381 @@
+.clientefinal-reservadelcliente-clientefinal-reservadelcliente {
+  /* Cliente final: Reserva del cliente */
+
+  position: relative;
+  width: 100%;
+  height: 1096px;
+
+  /* White */
+
+  background: #ffffff;
+}
+.clientefinal-reservadelcliente-reservas {
+  /* Reservas */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 16px;
+
+  position: absolute;
+  width: 1176px;
+  height: 768px;
+  left: 260px;
+  top: 208px;
+}
+.clientefinal-reservadelcliente-pedido-mi-cuenta {
+  /* Pedido Mi Cuenta */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 24px;
+  gap: 16px;
+
+  width: 1176px;
+  height: 96px;
+
+  /* White */
+
+  background: #ffffff;
+  /* Grey 2 */
+
+  border: 1px solid #f0f0f0;
+  border-radius: 12px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.clientefinal-reservadelcliente-text126 {
+  /* Reservas */
+
+  position: absolute;
+  height: 24px;
+  left: 260px;
+  right: 96px;
+  top: 160px;
+
+  /* SemiBold · 20 · 24 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  /* identical to box height, or 120% */
+
+  font-feature-settings: "zero" on;
+
+  /* Black */
+
+  color: #000000;
+}
+
+.clientefinal-reservadelcliente-info {
+  /* Info */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  width: 241px;
+  height: 36px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+.clientefinal-reservadelcliente-text {
+  /* Txt */
+
+  width: 241px;
+  height: 16px;
+
+  /* Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-reservadelcliente-text002 {
+  /* Txt */
+
+  width: 241px;
+  height: 16px;
+
+  /* Semibold · 14 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  font-feature-settings: "zero" on;
+
+  /* Black */
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-reservadelcliente-info01 {
+  /* Info */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  width: 241px;
+  height: 36px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+.clientefinal-reservadelcliente-text004 {
+  /* tit */
+
+  width: 241px;
+  height: 16px;
+
+  /* Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-reservadelcliente-text006 {
+  /* txt */
+
+  width: 241px;
+  height: 16px;
+
+  /* Semibold · 14 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  font-feature-settings: "zero" on;
+
+  /* Black */
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-reservadelcliente-info02 {
+  /* Info */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  width: 241px;
+  height: 36px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 1;
+}
+.clientefinal-reservadelcliente-text008 {
+  /* tit */
+
+  width: 241px;
+  height: 16px;
+
+  /* Body/Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  font-feature-settings: "ss01" on, "case" on;
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-reservadelcliente-text010 {
+  /* txt */
+
+  width: 241px;
+  height: 16px;
+
+  /* Body/SemiBold (minúscula) · 14 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  font-feature-settings: "zero" on;
+
+  /* Black */
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-reservadelcliente-info03 {
+  /* Info */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  width: 241px;
+  height: 36px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 4;
+  flex-grow: 1;
+}
+.clientefinal-reservadelcliente-text012 {
+  /* tit */
+
+  width: 241px;
+  height: 16px;
+
+  /* Regular · 12 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  /* Grey 8 */
+
+  color: #505050;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.clientefinal-reservadelcliente-text014 {
+  /* txt */
+
+  width: 241px;
+  height: 16px;
+
+  /* Semibold · 14 · 16 */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  font-feature-settings: "zero" on;
+
+  /* Black */
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
