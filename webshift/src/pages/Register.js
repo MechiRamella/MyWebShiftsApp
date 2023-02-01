@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Register = () => {
   return (
     <div>
@@ -20,7 +22,9 @@ const Register = () => {
                 </svg>
               </div>
               <span className="clientefinal-registro-text ">
-                <span>Atrás</span>
+                <Link className="link" to="/">
+                  <span>Atrás</span>
+                </Link>
               </span>
             </div>
             <span className="clientefinal-registro-text02">
@@ -171,7 +175,9 @@ const Register = () => {
 
           <div className="clientefinal-registro-c-t-a-desktop2">
             <span className="clientefinal-registro-text38 Semibold·16·20">
-              <span>¿Ya tenés cuenta? Iniciá sesión</span>
+              <Link className="link" to="/">
+                <span>¿Ya tenés cuenta? Iniciá sesión</span>
+              </Link>
             </span>
           </div>
         </div>

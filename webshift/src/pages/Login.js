@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Login = () => {
   return (
     <div>
@@ -62,7 +64,9 @@ const Login = () => {
 
           <div className="clientefinal-login-c-t-a-desktop2">
             <span className="clientefinal-login-text11 Semibold·16·20">
-              <span>¿No tenés cuenta? Registrate</span>
+              <Link className="link" to="/register">
+                <span>¿No tenés cuenta? Registrate</span>
+              </Link>
             </span>
           </div>
         </div>

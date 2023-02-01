@@ -1,5 +1,6 @@
+import { Routes, Route } from "react-router-dom";
 import Login from "./pages/Login";
-//import Register from "./pages/Register";
+import Register from "./pages/Register";
 //import ProfileUser from "./pages/ProfileUser";
 //import CancelledShift from "./pages/CancelledShift";
 //import ShiftUser from "./pages/ShiftUser";
@@ -9,7 +10,10 @@ import Login from "./pages/Login";
 function App() {
   return (
     <div>
-      <Login />
+      <Routes>
+        <Route path="/" element={<Login />} />
+        <Route path="/register" element={<Register />} />
+      </Routes>
     </div>
   );
 }
